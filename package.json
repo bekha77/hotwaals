@@ -1,0 +1,28 @@
+{
+  "name": "hotwaals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekha77/hotwaals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekha77/hotwaals/issues"
+  },
+  "homepage": "https://github.com/bekha77/hotwaals#readme",
+  "dependencies": {
+    "covid19-api": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "telegraf": "^4.0.3"
+  }
+}
