@@ -1,4 +1,18 @@
 /* NAVBAR */
-.navbar{
-    color: steelblue;
+.navbar-brand {
+    display: flex;
+    justify-content: flex-start;
+}
+#navbarNavDropdown{
+    display: flex;
+    justify-content: center;
+}
+#tel{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-item{
+    border-left: 1em grey;
+    margin-left: 2em;
+    margin-right: 2em;
 }
